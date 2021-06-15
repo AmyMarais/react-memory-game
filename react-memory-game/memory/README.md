@@ -3,6 +3,9 @@
 A simple memory game created in ReactJS.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+https://react-card-memory-game.herokuapp.com/
+
 ## Game rules
 The main board contains a selection of cards. Each of them contains an image(logo), but all of them are hidden.
 Each card has one matching card equivalent.
@@ -17,6 +20,7 @@ clone this repo
 
 ```
 The browser should then be opened automatically (under http://localhost:300)
+
 
 ## Available Scripts
 
